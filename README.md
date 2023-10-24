@@ -1,4 +1,4 @@
-# Java Design Patterns Project
+# SRP_OCP :
 
 This Java project is dedicated to demonstrating the proper implementation of the Open-Closed Principle (OCP) and Single Responsibility Principle (SRP) through the use of design patterns.
 
@@ -36,7 +36,7 @@ To get started with this project, you need to have Java and a development enviro
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/java-design-patterns.git
+   git clone https://github.com/your-username/SRP_OCP.git
 ## Usage
 This project serves as an educational resource for understanding how to apply design patterns in Java while adhering to the Open-Closed Principle and Single Responsibility Principle. You can explore the code examples to learn how to implement and utilize these patterns effectively.
 ## Contributing
